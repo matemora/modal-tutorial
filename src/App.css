@@ -1,5 +1,14 @@
 .App {
-  text-align: center;
+  margin: 16px;
+}
+
+.to-do-list-items {
+  margin-top: 64px;
+  width: 500px;
+}
+
+.input-area {
+  display: flex;
 }
 
 .App-logo {
